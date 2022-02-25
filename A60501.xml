@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>These few lines are to all such as have an hand in persecuting the innocent people of God (called Quakers) for the exercise of their pure conscience towards God, whom Christ Jesus the Light hath redeemed  ...</title>
+            <author>Smith, Mary, prisoner at Middlewich.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60501</idno>
+            <idno type="STC">Wing S4130</idno>
+            <idno type="STC">ESTC R220731</idno>
+            <idno type="EEBO-CITATION">99832123</idno>
+            <idno type="PROQUEST">99832123</idno>
+            <idno type="VID">36594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36594)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2135:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>These few lines are to all such as have an hand in persecuting the innocent people of God (called Quakers) for the exercise of their pure conscience towards God, whom Christ Jesus the Light hath redeemed  ...</title>
+                  <author>Smith, Mary, prisoner at Middlewich.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>Signed at end: Mary Smith.</note>
+                  <note>Place of publication conjectured by Wing; publication date from colophon.</note>
+                  <note>"Here is another warning which was given forth some years before, .." has caption title on p. 6, and is signed and dated: Mary Smith. From the Ouse-bridge prison the 9. day of the 7. moneth 1659.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Persecution --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="warning">
+                  <pb n="1" facs="tcp:36594:1"/>
+                  <p>THeſe few Lines are to all ſuch as have an hand in Perſecut<g ref="char:EOLhyphen"/>ing the Innocent People of God (called <hi>Quakers)</hi> for the Exerciſe of their pure Conſcience towards God, whom Chriſt Jeſus the Light hath redeemed, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d is redeeming by the blood of Cleanſing, into that ſpiritual Worſhip which he bore teſtimony to in his day when he was in the fleſh; and all other Worſhips we deny, but that which ſtands in Spirit and in Truth, and redeems up to God, out of Sin and Iniquity, and brings to know the Tranſlation from Death to Life, and ſo leads to the new birth, which gives an Entrance into the kingdom of heaven; and ſo we coming to know a meaſure of the Son of God, to live and bear rule in us, we come to inherit ſubſtance, and therefore can we not go with you to ſit down in your dead Forms, nor be content with thoſe empty ſhadowes, nor feed upon thoſe Husks, becauſe there is no life in them: For the Lord hath brought us to know the living bread which came down from heaven, <hi>which bread is ſure unto us:</hi> And he cauſeth us to feed upon the hidden Manna, bleſſed be his name for ever: for he is large in his Mer<g ref="char:EOLhyphen"/>cies, and plenteous in his Redemption to our ſouls: <hi>And if we ſhould deny him before men, then might he juſtly deny us before his Fa<g ref="char:EOLhyphen"/>ther,</hi> and deprive us of his living refreſhments which we enjoy, and of his preſence which is better than life un<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o us, and ſo cauſe him to pour down his fierce wrath and indignation upon us, and for ever to blot our names out of the book of l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe. And ſo for theſe Reaſons, (do I declare unto you in the fear of the Lord) dare we not bow to your Law which is made againſt Conſc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ence; For Conſcience is Chriſts Throne, and none ought to uſurp Autho<g ref="char:EOLhyphen"/>rity there: <hi>So Bind not the Spirit of the Lord, nor limit the holy one of Iſrael unto a Form:</hi> But in love to your ſouls, I adv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe you, to let the Lord alone, preſcribe him not a Way, but leave the work to himſelf, for he is the only wiſe. It is he, even he that con<g ref="char:EOLhyphen"/>founds
+<pb n="2" facs="tcp:36594:2"/> the Wiſedom of the wiſe, and turns the Counſel of the prudent backward. For <hi>Is not the wiſdome of this world, fool<g ref="char:EOLhyphen"/>iſhneſs with God?</hi> In the fear of the Lord therefore (oh friends) take heed what you do, for the Lord will be too hard for all fleſh: Bryars and Thorns cannot ſtand before him in battle, when he <hi>(That is a conſuming fire)</hi> ariſes to plead the cauſe of his ſuffering ſeed. Oh be warned whilſt you have a day; and remember hard-hearted <hi>Pharaoh,</hi> who would not let <hi>Iſrael</hi> go free, but their God wrought their deliverance through the deſtruction of their enemies: And did he not reprove Kings for their ſakes, ſaying, <hi>Touch not mine Anointed, and do my Prophets no harm?</hi> And is he not the ſame God, and changes not? Or do you think that he hath forgotten to be gracious? Or is the ſighs of the poor, and the groans of the needy hid from him? Nay ſurely, he is the ſame as ever he was, and will aſſuredly deliver his people (in his own appointed time) in this day, as ever he did in the dayes that are paſt: <hi>Therefore conſider well theſe things all ye that forget God, leſt he vex you in his wrath, and conſume you in his ſore diſpleaſure, when there is none to deliver.</hi> Ah! Why ſhould you bend your b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owes, and make your Arrows ready to ſhoot at an innocent people, whoſe God is the Lord, who never harmed nor wiſhed evil to you, but ſeeks the Lord on your behalfs, and ſupplicates him with brokenneſs of ſpirit, that you might not periſh in your gain-ſaying, but that you might turn unto him that ſmites, wounds, and reproves you in ſecret, and lets you ſee all the outgoings of your minds, and vain imaginations of your hearts, when no eye ſees you, nor ear hears you.</p>
+                  <p>This is he that would gather you up to God: Oh friends, reſiſt him not any longer, he hath long born your Iniquities, and long waited over you, to be gracious to you: Oh turn, turn at his Re<g ref="char:EOLhyphen"/>proof, Why will ye die in your tranſgreſſions? (Of a truth, <hi>He delights not in the death of a ſinner)</hi> Why ſhould his head be wet any longer with the dew, and h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s locks with the drops of the night? Oh that you could feel the breaking of my bowels over you, and the tra<g ref="char:EOLhyphen"/>vel of my ſoul for you, that you might come to believe in Chriſt Je<g ref="char:EOLhyphen"/>ſus the Light of the world, for he is near you, in whom the treaſures of life are to be found.</p>
+                  <pb n="3" facs="tcp:36594:2"/>
+                  <p>How ſoon would he ſhew mercy to you, and heal your backſlidings; and though your ſins were as red as ſcarlet, he would waſh you, and cleanſe you, he would purge you, and purifie you, and make you veſſels of honour, and then would he open of the rivers of life to your ſouls; and make you taſte of the pleaſures which are at his right hand for evermore.</p>
+                  <p>Oh friends, feel the bowels of an infinite God to you, whoſe mercies are unutterable, they cannot be declar'd! Oh how doth my ſoul earneſtly invite you to <hi>Come and taſte and feel how good the Lord is,</hi> that ſo you might come to comprehend with his people, what is the length, and height, and breadth, and depth of this Love of God which we enjoy in Chriſt Jeſus.</p>
+                  <p>My Counſel therefore and Advice unto all where this may come, is, That you lay aſide all your carnal Weapons, and ſeek not by them to force us from our Beloved, for you never ſhall be able (the mouth of the Lord hath ſpoken it) ſo in vain do you expect it, for the Lord hath determined to exalt his Chriſt (the Light of the world) and to ſet him upon his holy Hill: For no weapon formed againſt him ſhall proſper, becauſe he is the Heir of all things, and it is he that ſhall rule the Nations with a Rod of Iron: And though he now be trampled upon as an enemy, and his face more mared then any mans, and no beauty nor comlineſs to be ſeen in him, yet to him ſhall the gathering of the Nations be, and the Iſles afar off ſhall come to the ariſing of his Glory: and though now his people be led as ſheep to the ſlaughter; and given dayly into the hand of the Devourer and Deſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oyer, and not thought worthy to live, nor tread upon Engliſh ground, <hi>Yet the Lord of Hoſts is our ſtrength, the God of Jacob is our Refuge:</hi> And though you feed his people with the bread of Affliction and water of adverſity, yet the Lord forgets them not. And though it ſeems nothing to you to lay Fa<g ref="char:EOLhyphen"/>milies waſte, and ſeparate Wife from Husband, and Husband from Wife, Parents from Children, and Children from Parents, not conſidering that the Lord ſees you; and whatſoever ye do to his Members, he takes as done unto himſelf; yea ſurely the Lord ſees you, he laughs at you, he hath you in diriſion, and where will you appear, when he comes to plead the cauſe of his own ſuffering ſeed,
+<pb n="4" facs="tcp:36594:3"/> which hath long groaned under ſuch hard Task-maſters, who will not let Iſrael go free to ſerve the Lord their God, according to the Leadings of his own ſpirit: Had it not been better for you, you had never h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d been born? Will your then ſaying, You had a Law, ſtand you in ſtead, when the judge of all the world comes to plead with you, who now condems and reproves you, and lets you ſee, you ought not to do it: Conſider theſe things all ye that for<g ref="char:EOLhyphen"/>get God, leſt he tear you in peices in his wrath, and there be none to deliver you: For we are as the Apple of his eye, the peo<g ref="char:EOLhyphen"/>ple of his paſture, and the ſheep of his Flock: and mighty is our Deliverer, for there is nothing more deſired by us then to do his Will, and in his heavenly Will do we lye down, where none can make afraid. Bleſſed be his Name for ever.</p>
+                  <p>It hath been much upon my Spirit, to clear my ſelf amongſt you, who have been a Sufferer by you, for no other cauſe, then for cal<g ref="char:EOLhyphen"/>ling upon the name of the Lord, and the clearing of his precious Truth and people, that ſo you might not plead Ignorance in the day of Account, for dreadful will the Lord our God be to all his E<g ref="char:EOLhyphen"/>nemies, he will render himſelf in flames of fire upon the heads of all the workers of Iniquity. For this is he who you are contending againſt, before whom all Nations are as the drop of a Bucket, and the ſmall duſt in the ballances: And when the Lyon of the Tribe of Judah ariſes to plead the cauſe of his ſuffering people in the fierceneſs of his Wrath, where will you hide your ſelves; Neither Rocks, nor Mountains ſhall cover you from his dreadful Vengeance, when he comes to plead with you, for his day ſhall burn as an Oven, and all the wicked and ungodly ſhall be as ſtubble before him: for all fleſh is as graſs, and the glory of man as a flower, which flouriſheth to day, and to morrow is cut down and withered.</p>
+                  <p>So I exhort you all not to exalt your ſelves againſt your Maker, for he is determined to abaſe all fleſh, and bring low all the lof<g ref="char:EOLhyphen"/>tineſs of man, and to make all the tall Cedars of <hi>Lebanon</hi> to bow be<g ref="char:EOLhyphen"/>fore him; and all the ſtrong Oaks of <hi>Baſhan</hi> will he cauſe to fall at his appearance, who will not that Chriſt Jeſus the Light of the
+<pb n="5" facs="tcp:36594:3"/> world, the Son of his Love ſhould Reign, to whom all power in Heaven and in Earth is given, to whom we bear our teſtimony, who is as broad Rivers to our ſouls in this day. Glory be given to his Name for ever and for evermore.</p>
+                  <closer>
+                     <signed>Written by one who is a Lover of the ſouls of all people, and travels for the Redemption of the imbondaged Seed, which lies in ſpiritual <hi>Sodome</hi> and <hi>Egypt</hi> in this day, as it did in the dayes of Old. <hi>Mary Smith.</hi>
+                     </signed>
+                     <dateline>From <hi>Myddlewych</hi>-houſe of Correction in <hi>Cheſhire</hi> 
+                        <date>the 10. moneth 1665.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Printed in the year 1667.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="warning">
+                  <pb n="6" facs="tcp:36594:4"/>
+                  <p>HERE is another Warning which was given forth ſome years before, to the Majeſtrates and Miniſters (ſo called) of the City of <hi>York,</hi> and ſeveral Copies of it was given into their hands, but their hearts were hardened, and they rejected Counſel: ſo the Propheſie is fulfilled, and the Lord is clear of them, and his people hath Peace in him, <hi>who forſakes them not</hi> in the ſix trou<g ref="char:EOLhyphen"/>bles nor in the ſeaven. Glory to his Name for ever.</p>
+                  <p>IN vain do you Rulers and Magiſtrates upon the earth conſult and take Counſel together againſt the Lord and his Chriſt: For I declare from the Spirit of the Lord, that there is no Weapon you form againſt him ſhall proſper.</p>
+                  <p>Again I declare to you by the pure moving of the Spirit of the Lord God, that made heaven and earth, that by that power which we live in, (whom the world in ſcorn calls Quakers) and are led by, to bear our Teſtimony againſt this wicked genera<g ref="char:EOLhyphen"/>tion. By that power, I declare again to you from the Lord, ſhall you all be broken to peices like a Potters veſſel, therefore in the dread and fear of the holy God, am I made to warn you in love to all your ſouls, that Repentance may be found amongſt you in this day when he requires it of
+<pb n="7" facs="tcp:36594:4"/> you, that your deſtruction come not ſuddenly, and your Calamity like an armed man, then your Maker will not ſave you, nor he that formed you, will not pitty you.</p>
+                  <p>Therefore this is a Viſitation from the Lord God to you all about this City of <hi>York,</hi> who are called Aldermen and Juſtices of the Peace or Miniſters, Chuſe whether you will bear or forbear, the Lord is clear of your blood, and this ſhall ſtand a wit<g ref="char:EOLhyphen"/>neſs againſt you for ever.</p>
+                  <closer>
+                     <signed>
+                        <hi>Written by one who is a Lover of all your ſouls, whoſe name is known to you after the fleſh to be </hi>Mary Smith.</signed>
+                     <dateline>From <hi>Ouſe-bridge</hi> Priſon <date>the 9. day of the 7. moneth 1659.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>The End.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
